@@ -7,7 +7,6 @@
 ```bash
 git push origin main
 ```
-https://github.com/ilnaz135/mesto-ad
 
 ## Ссылка на опубликованный проект
 
